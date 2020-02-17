@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(247, 20, 126);
+  }
+  
+  h1 {
+      border: 6px solid rgb(247, 20, 126);
+    color: rgb(24, 45, 138);
+    text-align : center;
+    display: inline-block;
+  }
+  p {
+    border: 3px solid black;
+    padding: 20px;
+    margin: 0px;
+    font-family: verdana;
+    font-size: 20px;}
+    div {
+        padding-top: 50px;
+        padding-right: 30px;
+        padding-bottom: 50px;
+        padding-left: 80px;
+        border:springgreen;
+     
+      }
+      img { width: 500px;
+    display: block;margin: 0 auto;
+    }
+
