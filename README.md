@@ -1,3 +1,9 @@
+# add function to the js file and more simple edit
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ragadnajjar/aboutme/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
