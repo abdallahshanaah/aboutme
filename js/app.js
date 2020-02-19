@@ -116,15 +116,15 @@ var score;
 var bands= ['The doors', 'pink floyed', 'the beatles', 'ACDC' ];
 
 var userchosse = prompt('tell me one of my favourite band ?').toLowerCase();
-for(var k =0; k<bands.length; k= k+1){
+for(var k =0; k<5; k= k+1){
 
     if (userchosse === bands[k] ){
         score++;
         alert ('awww,that\'s it');
         break;
-    }
-    }
+     }
+    if (k===5) 
 for(var f=0 ; f<5 ;f++);
 alert ('no,that\'s not the answer');
         userchosse = prompt('tell me one of my favourite band ?').toLowerCase() ;
-        alert('your score' + score + ' from 7 ');
+        alert('your score' + score + ' from 7 '); }
